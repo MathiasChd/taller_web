@@ -1,0 +1,15 @@
+h1{
+    font-size: 2em;
+    color: darkcyan;
+    text-decoration:underline;
+}
+
+h2{
+    font-size: 1em;
+    color: rgb(5, 5, 113);
+}
+
+h3{
+    font-size: 1em;
+    color: rgb(7, 160, 12);
+}
